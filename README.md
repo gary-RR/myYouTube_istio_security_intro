@@ -1,0 +1,1 @@
+# Scripts related to my "Istio Mesh: Security" video: . Please not ethat this assumes you have already installed istio on your machine. If not, watch my istio intro video https://youtu.be/x_HRl-Ehvb8 where I walk through the installation process.
